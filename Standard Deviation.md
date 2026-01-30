@@ -1,0 +1,1 @@
+The xxx in a randomly selected sample would typically differ from the mean by about *standard deviation* units. 

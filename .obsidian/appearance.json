@@ -1,0 +1,11 @@
+{
+  "cssTheme": "GitHub Theme",
+  "interfaceFontFamily": "Sarasa UI SC",
+  "monospaceFontFamily": "JetBrains Mono",
+  "baseFontSize": 30,
+  "nativeMenus": true,
+  "translucency": true,
+  "baseFontSizeAction": true,
+  "textFontFamily": "Sarasa UI SC",
+  "accentColor": ""
+}

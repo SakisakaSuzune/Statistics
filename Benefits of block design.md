@@ -1,0 +1,1 @@
+A randomized block design/blocking accounts for the variation in the response to *response variable* due to *difference in condition*, making it easier <u>to determine</u> whether *one treatment* is more effective than the other/<u>to detect</u> the difference between *condition 1* and *condition 2*.
