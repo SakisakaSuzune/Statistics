@@ -81,14 +81,14 @@
             "id": "861d8045a4393c36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Chapter 11/Chi-Square Test for Independence.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Chi-Square Test for Independence"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           },
           {
@@ -344,7 +344,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -366,8 +367,8 @@
   },
   "active": "861d8045a4393c36",
   "lastOpenFiles": [
-    "Chapter 11/Chi-Square Test of Goodness of Fit(GOF).md",
     "Chapter 11/Chi-Square Test for Independence.md",
+    "Chapter 11/Chi-Square Test of Goodness of Fit(GOF).md",
     "Chapter 11/Chi-Square Test for Homogeneity.md",
     "Temp.md",
     "形容一个distribution.md",
