@@ -36,21 +36,21 @@
             }
           },
           {
-            "id": "4449c12b1e38620a",
+            "id": "5646668d48bc6c44",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Chapter 3 Relationships/Relationships.Overview.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Relationships.Overview"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chapter 8 Confidence/Confidence Interval.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Confidence Interval 的反向链接列表"
             }
           },
           {
@@ -224,9 +225,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4449c12b1e38620a",
+  "active": "83cf26277ee4ad89",
   "lastOpenFiles": [
     "Chapter 3 Relationships/Relationships.Overview.md",
+    "Attachments/Pasted image 20260204215142.png",
+    "Attachments/Pasted image 20260204215007.png",
+    "Attachments/Pasted image 20260204214406.png",
+    "Attachments/Pasted image 20260204214153.png",
     "Chapter 5 Probability/Probability.md",
     "Attachments/explanation.png",
     "Chapter 8 Confidence/Confidence Interval.md",
@@ -252,17 +257,12 @@
     "Chapter 6 Random Variables/Combination (nCr).md",
     "Chapter 4 Studies&Experiments/Benefits of block design.md",
     "Chapter 2 Data Distributions/Percentile.md",
-    "Chapter 4 Studies&Experiments/Confounding.md",
     "Chapter 12 Regression",
     "Attachments/Pasted image 20260129141855.png",
     "Attachments/Pasted image 20260128210253.png",
     "Attachments/Pasted image 20260128205331.png",
     "Attachments/Pasted image 20260128205234.png",
     "Attachments/Pasted image 20260128204843.png",
-    "Attachments/Pasted image 20260128204640.png",
-    "Attachments/Pasted image 20260128204338.png",
-    "Attachments/Pasted image 20260128204242.png",
-    "Attachments/Pasted image 20260128204233.png",
     "Attachments",
     "未命名.base",
     "Chapter 11 Chi-Square",
