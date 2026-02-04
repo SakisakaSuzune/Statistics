@@ -12,3 +12,6 @@ Clone.
 # Download Obsidian
 Download Obsidian at [obsidian.md/download](https://obsidian.md/download) and open it.  
 Choose "Open Local Vault" and select the folder named "Statistics" at the place you cloned it.  
+# Update the Notes
+Sometimes the notes update.
+To update your local notes, click "Fetch Origin" on the top of GitHub Desktop.
