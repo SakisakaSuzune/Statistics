@@ -39,14 +39,14 @@
             "id": "4449c12b1e38620a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Chapter 5 Probability/Probability.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Probability"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ],
@@ -123,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapter 5 Probability/Probability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Probability 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -225,11 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c142669aa0681f34",
+  "active": "4449c12b1e38620a",
   "lastOpenFiles": [
+    "Chapter 3 Relationships/Relationships.Overview.md",
+    "Chapter 5 Probability/Probability.md",
     "Attachments/explanation.png",
     "Chapter 8 Confidence/Confidence Interval.md",
-    "Chapter 5 Probability/Probability.md",
     "Chapter 1 Data/Plots & Describe a Distribution.md",
     "Chapter 1 Data/为什么是(n-1)？.md",
     "Chapter 2 Data Distributions/Uniform Distribution.md",
@@ -263,7 +263,6 @@
     "Attachments/Pasted image 20260128204338.png",
     "Attachments/Pasted image 20260128204242.png",
     "Attachments/Pasted image 20260128204233.png",
-    "Attachments/Pasted image 20260128203826.png",
     "Attachments",
     "未命名.base",
     "Chapter 11 Chi-Square",
