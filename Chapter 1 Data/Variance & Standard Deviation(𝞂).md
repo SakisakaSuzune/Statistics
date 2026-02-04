@@ -6,7 +6,7 @@ Standard Deviation $= \sigma = \sqrt{ \frac{1}{N} \Sigma(X_{i}-\mu)^2 }$
 Variance $= \sigma^2 = \frac{1}{{\color{Red}N-1}}\Sigma(x_{i}-\mu)^2$
 Standard Deviation $= \sigma = \sqrt{ \frac{1}{{\color{Red}N-1}} \Sigma(X_{i}-\mu)^2 }$
 
-## [[为什么是(N-1)|Why (N-1)?]]
+## [[为什么是(n-1)？|Why (N-1)?]]
 
 ## Interpret the 𝞂
 The *(Context)* typically varies from the mean by 𝞂. 

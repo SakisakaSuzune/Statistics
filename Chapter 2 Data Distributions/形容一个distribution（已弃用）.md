@@ -13,5 +13,4 @@
 ## Spread
 1. IQR和Range都可以用，有outlier的时候用IQR。
 ## Outliers
-嗯，该咋做咋做。
 [[1.5 IQR Rule|判断outlier]] 

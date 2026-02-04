@@ -1,4 +1,4 @@
-#Chapter_10
+参考[[Combining Random Variables]]。
 ## Distribution of $\hat{p_{1}}-\hat{p_{2}}$
 1. $\mu_{\hat{p_{1}}-\hat{p_{2}}} = \mu_{\hat{p_{1}}} - \mu_{\hat{p_{2}}} = p_{1}-p_{2}$  ←(unbiased estimator)
 2. $\sigma_{\hat{p_{1}}-\hat{p_{2}}} = \sqrt{ \sigma_{\hat{p_{1}}}^2 + \sigma_{\hat{p_{2}}}^2 } = \sqrt{ \frac{p_{1}(1-p_{1})}{n_{1}} + \frac{p_{2}(1-p_{2})}{n_{2}}}$, where $\begin{cases} n_{1} ≤ \frac{1}{10}N_{1} \\ n_{2} ≤ \frac{1}{10} N_{2}\end{cases}$  (10% rule).

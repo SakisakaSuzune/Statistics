@@ -27,7 +27,8 @@ $$
 \bar{X}～N\left( \mu, \frac{\sigma}{\sqrt{ n }} \right)
 $$
 ## The Distribution of Mean of Non-Normal Sample
-#### Central Limit Theorem
+#### Central Limit Theorem(CLT)
+^40c847
+
 Draw an SRS of size n from any population with mean µ and finite standard deviation σ.
 The central limit theorem (CLT) says that when n is large (n ≥ 30), the sampling distribution of the sample mean x-bar is approximately Normal.
-

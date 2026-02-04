@@ -1,5 +1,4 @@
-#Chapter_6
-When appropriate, use the Normal approximation to the <u>binomial distribution</u> to calculate probabilities.
+When appropriate, use the Normal approximation to the **binomial** distribution to calculate probabilities.
 $$
 \displaylines{
 \begin{align}

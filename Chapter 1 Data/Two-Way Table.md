@@ -11,7 +11,7 @@
 
 ## Marginal/Conditional Distribution
 Marginal Distribution: the probability distribution of a subset of variables, ignoring the rest.
-	$P(\text{Male}) = {\displaystyle \sum P(\text{Male},\text{Perspectives}) } = \frac{10}{200}+\frac{20}{200}+\frac{30}{200}+\frac{40}{200} = \frac{100}{200}$
+	$P(\text{Male}) = {\sum P(\text{Male},\text{Perspectives}) } = \frac{10}{200}+\frac{20}{200}+\frac{30}{200}+\frac{40}{200} = \frac{100}{200}$
 	To calculate a marginal distribution, add numbers in a row or a column to their sum. 
 	e.g. Marginal distribution of Gender: $\text{100 Females and 100 Males}$
 
