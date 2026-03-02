@@ -1,0 +1,3 @@
+$$
+z=\frac{x-\mu}{\sigma}
+$$

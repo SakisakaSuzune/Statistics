@@ -1,20 +1,20 @@
 仅提供一个框架，因为我没记。
 ## Scatterplots
-![[Pasted image 20260204214153.png]]
+![[Attachments/Pasted image 20260204214153.png]]
 
 ## Correlation r
 The correlation r measures the direction and strength of the linear relationship ***between two quantitative variables***.
 Correlation r 描述了x轴和y轴两个变量之间的线性关系和强度。
-![[Pasted image 20260204214406.png]]
+![[Attachments/Pasted image 20260204214406.png]]
 $r = \frac{1}{n-1}\displaystyle\sum_{i=1}^n\left( \frac{{x_{i}-\bar{x}}}{s_{x}} \right) \left( \frac{{y_{i}-\bar{y}}}{s_{y}} \right)$ 
 
 ## Least-Squares Regression
 *\*Precalculus学过*
 Regression Line: We often use it to predict the value of y for a given value of x.
-![[Pasted image 20260204215007.png]]
+![[Attachments/Pasted image 20260204215007.png]]
 
 Residual: the difference between an observed value of the response variable and the value predicted by the regression line.
-![[Pasted image 20260204215142.png]]
+![[Attachments/Pasted image 20260204215142.png]]
 
 Least-Squares Regression: The least-squares regression line of y on x is the line that makes the sum of the squared residuals as small as possible.
 

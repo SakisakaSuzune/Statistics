@@ -6,3 +6,7 @@
 *.json
 
 /.obsidian/workspace.json
+/.obsidian/community-plugins.json
+/.obsidian/plugins/obsidian-pandoc/main.js
+/.obsidian/plugins/obsidian-pandoc/styles.css
+/.obsidian/workspace.json
