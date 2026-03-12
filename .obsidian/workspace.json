@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "75cba2758f75bee9",
+        "id": "42e428f2e034295f",
         "type": "tabs",
         "children": [
           {
-            "id": "6782068e98a629ec",
+            "id": "496ae7605ad44c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 8 Confidence/Confidence Interval.md",
+                "file": "Chapter 11 Chi-Square/Chi-Square Test for Independence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confidence Interval"
-            }
-          },
-          {
-            "id": "75a3651576ca7233",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chapter 2 Data Distributions/z-score.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "z-score"
+              "title": "Chi-Square Test for Independence"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "/sigma_{",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp.md",
+                "file": "Chapter 11 Chi-Square/Chi-Square Test for Independence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Temp 的大纲"
+              "title": "Chi-Square Test for Independence 的大纲"
             }
           },
           {
@@ -208,37 +193,40 @@
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "random-note:开始漫游笔记": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "copilot:Open Copilot Chat": false
     }
   },
   "active": "c142669aa0681f34",
   "lastOpenFiles": [
-    "README.md",
-    "Chapter 8 Confidence/Confidence Interval.md",
-    "Chapter 2 Data Distributions/z-score.md",
-    "Chapter 1 Data/Plots & Describe a Distribution.md",
-    "Chapter 1 Data/Standard Deviation(Sx & σ).md",
-    "Chapter 2 Data Distributions/Percentile.md",
-    "Chapter 2 Data Distributions/Uniform Distribution.md",
-    "Chapter 2 Data Distributions/形容一个distribution（已弃用）.md",
-    "Chapter 1 Data/1.5 IQR Rule.md",
-    "Chapter 3 Relationships/Relationships Overview.md",
-    "Chapter 7 Sampling Distributions/Sample Proportion & Sample Mean.md",
     "Chapter 11 Chi-Square/Chi-Square Test of Goodness of Fit(GOF).md",
     "Chapter 11 Chi-Square/Chi-Square Test for Independence.md",
     "Chapter 11 Chi-Square/Chi-Square Test for Homogeneity.md",
-    "Chapter 10 Two-Sample/Two-Sample Interval & Test.md",
-    "Chapter 9 Tests/Type I Error & Type II Error.md",
-    "Chapter 9 Tests/Significance Test.md",
-    "Chapter 9 Tests/P-Value.md",
-    "Chapter 9 Tests/Null Hypothesis & Alternative Hypothesis.md",
-    "Chapter 6 Random Variables/Normal Approximation.md",
     "Chapter 6 Random Variables/Combining Random Variables.md",
-    "Chapter 6 Random Variables/Combination (nCr).md",
     "Chapter 6 Random Variables/Binomial Distribution.md",
     "Chapter 5 Probability/Probability.md",
-    "Chapter 4 Studies&Experiments/The importance of controlling experiment.md",
-    "Chapter 4 Studies&Experiments/Stratified Random Sample & Cluster Sample.md",
+    "Chapter 1 Data/1.5 IQR Rule.md",
+    "Chapter 12 Regression/Regression.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "Chapter 8 Confidence/Confidence Interval.md",
+    "Chapter 1 Data/Variance & Standard Deviation(𝞂).md",
+    "Chapter 1 Data/Standard Deviation(Sx & σ).md",
+    "Chapter 7 Sampling Distributions/Sample Proportion & Sample Mean.md",
+    "Chapter 10 Two-Sample/Two-Sample Interval & Test.md",
+    "copilot/copilot-custom-prompts/Format.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
     "Attachments/Pasted image 20260128203826.png",
     "untitled folder",
     "Attachments/Pasted image 20260204215142.png",
@@ -256,8 +244,6 @@
     "Chapter 11 Chi-Square",
     "Chapter 10 Two-Sample",
     "Chapter 9 Tests",
-    "Chapter 8 Confidence",
-    "Chapter 7 Sampling Distributions",
-    "Chapter 6 Random Variables"
+    "Chapter 8 Confidence"
   ]
 }

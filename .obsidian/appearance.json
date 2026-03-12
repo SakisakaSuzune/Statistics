@@ -6,6 +6,9 @@
   "nativeMenus": true,
   "translucency": true,
   "baseFontSizeAction": true,
-  "textFontFamily": "Sarasa UI SC",
-  "accentColor": ""
+  "textFontFamily": "New York,Songti SC",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "center_notes"
+  ]
 }
