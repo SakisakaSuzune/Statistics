@@ -39,6 +39,6 @@ $\bar{x_{1}}-\bar{x_{2}} ± t^* · \sqrt{ \frac{S_{x_{1}}^2}{n_{1}} + \frac{S_{x
 2. Plan: 
 		Random
 		10%
-		Normal/Large Sample
+		[[Confidence Interval#^df80a0|Normal/Large Sample]]
 3. Do: $t = \frac{{(\bar{x_{1}} - \bar{x_{2}}) - (\mu_{1}-\mu_{2})}}{\sqrt{  \frac{S_{x_{1}}^2}{n_{1}} + \frac{S_{x_{2}}^2}{n_{2}} }}$ 
 4. Conclude
