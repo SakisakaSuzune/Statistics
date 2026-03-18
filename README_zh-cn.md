@@ -15,8 +15,8 @@ Git是一款帮助您从互联网获取最新内容的工具。
 # 克隆此仓库
 通过克隆此仓库，您可以在本地访问笔记内容。
 
-在同一个终端窗口中运行``git clone https://github.com/SakisakaSuzune/Statistics``。
-（若使用代理，请先复制并运行代理应用中的“shell命令”）
+在同一个终端窗口中运行``git clone https://github.com/SakisakaSuzune/Statistics``。  
+（若使用代理，请先复制并运行代理应用中的“终端命令”）  
 （如需将仓库克隆到特定文件夹，请先输入``cd ``并将目标文件夹拖入窗口后执行该操作）
 
 # 下载Obsidian
