@@ -1,4 +1,4 @@
-[English](README.md)
+[English](README.md)  
 这是一个用于Obsidian的知识库，包含**AP统计学**的相关笔记。
 
 要在自己的设备上查看笔记，请按以下步骤操作。
