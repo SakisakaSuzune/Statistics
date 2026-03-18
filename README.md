@@ -1,4 +1,4 @@
-[简体中文](README_zh-cn)  
+[简体中文](README_zh-cn.md)  
 This is a vault for Obsidian, containing notes for **AP statistics**.  
   
 To check notes on your own device, follow steps below.  
