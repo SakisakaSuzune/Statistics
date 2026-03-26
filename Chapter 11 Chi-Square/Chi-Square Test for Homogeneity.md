@@ -2,7 +2,7 @@
 $\begin{cases} H_{0}: \text{There is no difeerence in the distributions of ......} \\ H_{a}: \text{There is a difference in the distributions of ......} \end{cases}$
 
 ## Plan
-We want to perform a Chi-Square test for homogeneity.
+We want to perform a Chi-square test for homogeneity.
 Random: the data come from independent random samples.
 	10%: there are at least 10n in the population.
 Large Counts: All expected counts are at least **5**.

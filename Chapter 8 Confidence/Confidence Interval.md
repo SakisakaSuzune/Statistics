@@ -40,4 +40,4 @@ $$
 	1. If the sample size is greater than 30: 
 		1. The sample mean distribution is approximately Normal ([[Sample Proportion & Sample Mean#^40c847|CLT]]).
 	2. If the sample size is less than 30: 
-		1. According to the [[Plots & Describe a Distribution#^c14237|box plot]], there is no strong skewness or outlier. We should use t-distribution with cautions.
+		1. According to the [[Plots#^c14237|box plot]], there is no strong skewness or outlier. We should use t-distribution with cautions.

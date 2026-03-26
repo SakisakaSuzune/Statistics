@@ -1,15 +1,7 @@
 .obsidian/*
-<<<<<<< HEAD
-/.obsidian/*
-=======
->>>>>>> origin/main
+
 
 **/.DS_Store
 *.json
 
-copilot/
-<<<<<<< HEAD
-/copilot/
-=======
-
->>>>>>> origin/main
+copilot/*

@@ -1,4 +1,4 @@
-$\hat{y}=\alpha+\beta x$ (population regression line)
+m$\hat{y}=\alpha+\beta x$ (population regression line)
 $\hat{y}=a+bx$ (sample regression line)
 
 $\hat{y}$ 是估计值，所以才会带 $\hat{}$ 。
@@ -27,3 +27,6 @@ $\epsilon_{i} ～ N(0, \sigma)$
 
 
 Regression line relating y to x.
+
+Confidence Interval: $b ± t_{n-2} \times SE_{b}$
+Test Statistic: $t=\frac{{b-\beta_{0}}}{SE_{b}}$
