@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "第二次模考.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "第二次模考"
+              "title": "README"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "第二次模考.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第二次模考 的大纲"
+              "title": "README 的大纲"
             }
           },
           {
@@ -196,16 +196,16 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c142669aa0681f34",
+  "active": "24be1c7de31548e9",
   "lastOpenFiles": [
-    "`Functions`.md",
-    "第二次模考.md",
+    "README_zh-cn.md",
     "README.md",
+    "第二次模考.md",
+    "`Functions`.md",
     "Chapter 1 Data/Plots.md",
     "Undercoverage.md",
     "Cluster vs. Stratified.md",
     "Matched Pair Test.md",
-    "README_zh-cn.md",
     "Nonresponse Bias.md",
     "Chapter 11 Chi-Square/Chi-Square Test of Goodness of Fit(GOF).md",
     "Chapter 11 Chi-Square/Chi-Square Test for Homogeneity.md",
