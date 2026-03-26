@@ -1,7 +1,4 @@
-/.obsidian/*
-
-
-**/.DS_Store
+copilot/
+.DS_Store
+.obsidian/
 *.json
-
-/copilot/*
