@@ -25,4 +25,8 @@ Choose "Open Local Vault" and select the folder named "Statistics" at the place 
 
 # Update the Notes
 Sometimes the notes update.
-Download Git extension in Obsidian and click "pull".
+Download Git extension in Obsidian and click "pull"
+or use ``
+
+# Recent Updates
+Contents update for 2nd mock test.
