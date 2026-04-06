@@ -1,14 +1,13 @@
 ## Stratified Random Sample
 “Similar within but different between”
 在每个stratum里面抽SRS。
-#### Advantages
+#### Advantages ^1s83ab
 1. Representative
 2. Estimate the population more accurately
 
 --------------------------------
 #### Disadvantages
 1. Consume more time and money
-
 
 ## Cluster Sample
 "Different within but similar between"

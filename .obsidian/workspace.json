@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "48e38d46e5707072",
+        "id": "461d9cee0eafa22c",
         "type": "tabs",
         "children": [
           {
-            "id": "24be1c7de31548e9",
+            "id": "7b463ad6e4b0d989",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "README_zh-cn.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Indices/Significance Tests.md",
+                "bFile": "Indices/Significance Tests.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "README_zh-cn"
+              "icon": "diff",
+              "title": "Diff: Significance Tests  (Working Tree)"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "matched",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README_zh-cn.md",
+                "file": "Indices/Tests.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "README_zh-cn 的大纲"
+              "title": "Tests 的大纲"
             }
           },
           {
@@ -173,6 +173,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "1b39106ca3f5a533",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
@@ -196,35 +206,38 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "24be1c7de31548e9",
+  "active": "7b463ad6e4b0d989",
   "lastOpenFiles": [
-    "README.md",
-    "README_zh-cn.md",
+    "Indices/Significance Tests.md",
+    "Chapter 12 Regression/Regression.md",
+    "Cosine.md",
+    "到底怎么算df？！.md",
+    "Chapter 6 Random Variables/Combining Random Variables.md",
+    "Chapter 9 Tests/Type I Error & Type II Error.md",
     "第二次模考.md",
+    "Chapter 7 Sampling Distributions/Sample Proportion & Sample Mean.md",
+    "Chapter 4 Studies & Experiments/Undercoverage.md",
+    "未命名.md",
+    "Chapter 8 Confidence/Confidence Interval.md",
+    "Chapter.md",
+    "Attachments/12356_test_1.png",
+    "Chapter 9 Tests/Matched Pair Test.md",
+    "Chapter 3 Relationships/Relationships Overview.md",
+    "Chapter 4 Studies & Experiments/Stratified Random Sample & Cluster Sample.md",
+    "Stratified Random Sample & Cluster Sample^1283ab.md",
+    "Chapter 11 Chi-Square/Chi-Square Test of Goodness of Fit(GOF).md",
+    "Chi-Square Test of Goodness of Fit (GOF).md",
+    "README.md",
+    "Tests.md",
+    "Chapter 9 Tests/Significance Test.md",
+    "Indices",
+    "README_zh-cn.md",
     "Calculator/`Functions`.md",
     "Calculator",
-    "Chapter 4 Studies & Experiments/Undercoverage.md",
     "Chapter 1 Data/Plots.md",
     "Chapter 4 Studies & Experiments/Cluster vs. Stratified.md",
-    "Chapter 9 Tests/Matched Pair Test.md",
     "Chapter 4 Studies & Experiments/Nonresponse Bias.md",
-    "Chapter 11 Chi-Square/Chi-Square Test of Goodness of Fit(GOF).md",
-    "Chapter 11 Chi-Square/Chi-Square Test for Homogeneity.md",
-    "Chapter 11 Chi-Square/Chi-Square Test for Independence.md",
-    "Chapter 12 Regression/Regression.md",
-    "Chapter 1 Data/Describing a location in a distribution.md",
-    "`NormCdf()`.md",
-    "Chapter 2 Data Distributions/z-score.md",
-    "Chapter 1 Data/Describe a Distribution.md",
-    "Chapter 2 Data Distributions/Percentile.md",
     "Attachments/6895997.png",
-    "Chapter 1 Data/Standard Deviation(Sx & σ).md",
-    "Chapter 1 Data/Two-Way Table.md",
-    "Chapter 1 Data/1.5 IQR Rule.md",
-    "Chapter 10 Two-Sample/Two-Sample Interval & Test.md",
-    "Chapter 8 Confidence/Confidence Interval.md",
-    "Chapter 6 Random Variables/Normal Approximation.md",
-    "Chapter 6 Random Variables/Combining Random Variables.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Attachments/Pasted image 20260128203826.png",
@@ -237,11 +250,9 @@
     "Chapter 12 Regression",
     "Attachments/Pasted image 20260129141855.png",
     "Attachments/Pasted image 20260128210253.png",
-    "Attachments/Pasted image 20260128205331.png",
     "Attachments",
     "未命名.base",
     "Chapter 11 Chi-Square",
-    "Chapter 10 Two-Sample",
-    "Chapter 9 Tests"
+    "Chapter 10 Two-Sample"
   ]
 }

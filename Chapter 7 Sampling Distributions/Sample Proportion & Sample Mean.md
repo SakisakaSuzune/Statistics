@@ -1,3 +1,4 @@
+
 ## Sample Proportion
 $$
 \hat{p} = \dfrac{X}{n}
@@ -20,9 +21,7 @@ $$
 $$
 E(\bar{x}) = E(X)
 $$
-$$
-\sigma_{\bar{X}} = \frac{\sigma}{\sqrt{ n }} \ \ (10\%\ rule)
-$$
+$\sigma_{\bar{X}} = \frac{\sigma}{\sqrt{ n }} \ \ (10\%\ rule)$^varia0
 $$
 \bar{X}～N\left( \mu, \frac{\sigma}{\sqrt{ n }} \right)
 $$

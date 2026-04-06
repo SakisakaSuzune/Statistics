@@ -5,6 +5,7 @@ $$
 $$
 
 ### A Four-Step Process
+
 1. State: We want a C% z-interval for ...
 2. Plan: We should use a one-sample Z interval.
 	1. Random: The data come from a random sample.

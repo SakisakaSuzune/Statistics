@@ -4,5 +4,6 @@
   "attachmentFolderPath": "Attachments",
   "alwaysUpdateLinks": true,
   "strictLineBreaks": false,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "uriCallbacks": false
 }
