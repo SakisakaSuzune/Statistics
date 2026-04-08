@@ -1,7 +1,7 @@
 # For Sample Proportion
 ### z-distribution
 $$
-\hat{p}±z^*\sqrt{ \frac{\hat{p}(1-p)}{n} }
+\hat{p}±z^*\sqrt{ \frac{\hat{p}(1-\hat p)}{n} }
 $$
 
 ### A Four-Step Process
