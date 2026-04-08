@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapter 8 Confidence/Confidence Interval.md",
+                "file": "Chapter 10 Two-Sample/Two-Sample Interval & Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Confidence Interval"
+              "title": "Two-Sample Interval & Test"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "confidence",
+                "query": "p_{c",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,6 +209,7 @@
   },
   "active": "b57b5ee5fd34a0ec",
   "lastOpenFiles": [
+    "Chapter 8 Confidence/Confidence Interval.md",
     "Indices/Confidence Interval.md",
     "Chapter 9 Tests/Type I Error & Type II Error.md",
     "Attachments/Pasted image 20260408171448.png",
@@ -222,7 +223,6 @@
     "Chapter 1 Data/Variables & Charts.md",
     "Chapter 2 Data Distributions/Percentile.md",
     "Chapter 12 Regression/Regression.md",
-    "Chapter 8 Confidence/Confidence Interval.md",
     "Chapter 10 Two-Sample/Two-Sample Interval & Test.md",
     "Indices/Significance Tests.md",
     "Cosine.md",
