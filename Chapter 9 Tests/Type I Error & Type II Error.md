@@ -13,3 +13,5 @@ Type II error is also called "$\beta$".
 $\alpha$ is **positively related** to power;
 $\beta$ is **negatively related** to power;
 $\alpha$ is **negatively related** to $\beta$.
+
+![[Pasted image 20260408171448.png]]
