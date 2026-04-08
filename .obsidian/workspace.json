@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "461d9cee0eafa22c",
+        "id": "29aa31ff3e6433f8",
         "type": "tabs",
         "children": [
           {
-            "id": "7b463ad6e4b0d989",
+            "id": "b57b5ee5fd34a0ec",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Indices/Significance Tests.md",
-                "bFile": "Indices/Significance Tests.md",
-                "aRef": ""
+                "file": "Chapter 9 Tests/Type I Error & Type II Error.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Significance Tests  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Type I Error & Type II Error"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "power",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -206,37 +207,37 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7b463ad6e4b0d989",
+  "active": "b57b5ee5fd34a0ec",
   "lastOpenFiles": [
-    "Indices/Significance Tests.md",
+    "Chapter 9 Tests/Significance Test.md",
+    "Chapter 9 Tests/Type I Error & Type II Error.md",
+    "Calculator/`Functions`.md",
+    "Chapter 2 Data Distributions/Uniform Distribution.md",
+    "Chapter 1 Data/1.5 IQR Rule.md",
+    "Chapter 1 Data/Describing a location in a distribution.md",
+    "Chapter 1 Data/Describe a Distribution.md",
+    "Chapter 1 Data/Variables & Charts.md",
+    "Chapter 2 Data Distributions/Percentile.md",
     "Chapter 12 Regression/Regression.md",
+    "Indices/Confidence Interval.md",
+    "Chapter 8 Confidence/Confidence Interval.md",
+    "Chapter 10 Two-Sample/Two-Sample Interval & Test.md",
+    "Indices/Significance Tests.md",
     "Cosine.md",
     "到底怎么算df？！.md",
     "Chapter 6 Random Variables/Combining Random Variables.md",
-    "Chapter 9 Tests/Type I Error & Type II Error.md",
     "第二次模考.md",
     "Chapter 7 Sampling Distributions/Sample Proportion & Sample Mean.md",
     "Chapter 4 Studies & Experiments/Undercoverage.md",
     "未命名.md",
-    "Chapter 8 Confidence/Confidence Interval.md",
     "Chapter.md",
     "Attachments/12356_test_1.png",
     "Chapter 9 Tests/Matched Pair Test.md",
     "Chapter 3 Relationships/Relationships Overview.md",
     "Chapter 4 Studies & Experiments/Stratified Random Sample & Cluster Sample.md",
     "Stratified Random Sample & Cluster Sample^1283ab.md",
-    "Chapter 11 Chi-Square/Chi-Square Test of Goodness of Fit(GOF).md",
-    "Chi-Square Test of Goodness of Fit (GOF).md",
-    "README.md",
-    "Tests.md",
-    "Chapter 9 Tests/Significance Test.md",
     "Indices",
-    "README_zh-cn.md",
-    "Calculator/`Functions`.md",
     "Calculator",
-    "Chapter 1 Data/Plots.md",
-    "Chapter 4 Studies & Experiments/Cluster vs. Stratified.md",
-    "Chapter 4 Studies & Experiments/Nonresponse Bias.md",
     "Attachments/6895997.png",
     "copilot/copilot-custom-prompts",
     "copilot",

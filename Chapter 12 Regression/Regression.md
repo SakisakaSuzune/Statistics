@@ -28,5 +28,7 @@ $\epsilon_{i} ～ N(0, \sigma)$
 
 Regression line relating y to x.
 
-Confidence Interval: $b ± t_{n-2} \times SE_{b}$
-Test Statistic: $t=\frac{{b-\beta_{0}}}{SE_{b}}$
+## Confidence Interval:
+$b ± t_{n-2} \times SE_{b}$
+## Test Statistic:
+$t=\frac{{b-\beta_{0}}}{SE_{b}}$

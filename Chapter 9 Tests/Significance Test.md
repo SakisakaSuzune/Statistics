@@ -12,5 +12,5 @@ We failed to reject $H_{0}$. We do not have convincing evidence that $H_{a}$ is 
  
  $t = \dfrac{\bar{x}-\mu_{0}}{s_{x}/\sqrt{ n }}$
  
-# Interpretation for Power
+# Interpretation for [[Type I Error & Type II Error|Power]]
 If the true *parameter in context* is really *specified alternative value*, there is a *power* probability of finding convincing evidence that the *parameter in context* is different from/greater/less than *(hypothesized value in $H_{a}$)*. 
