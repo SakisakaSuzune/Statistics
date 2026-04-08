@@ -17,7 +17,7 @@
 		**Large Counts**: $\begin{cases} n_{1}\hat{p_{1}}≥10, n_{1}(1-\hat{p_{1}})≥10 \\ n_{2}\hat{p_{2}}≥10, n_{2}(1-\hat{p_{2}})≥10 \end{cases}$ . ←(use $\hat{p_{1 }}$ instead of $p_{1}$)
 3. **Do**: $z = \dfrac{(\hat{p_{1}}-\hat{p_{2}}) - 0}{\sqrt{ \dfrac{\hat{p_{c}}(1-\hat{p_{c}})}{n_{1}} + \dfrac{\hat{p_{c}}(1-\hat{p_{c}})}{n_{2}}}}$
 4. **Conclude**: ...
-### $\hat{p_{c}}$ ???
+    ### $\hat{p_{c}}$ ???
 **Pooled/Combined Proportion**
 $\hat{p_{c}} = \dfrac{n_{1}\hat{p_{1}} + n_{2}\hat{p_{2}}}{n_{1} + n_{2}}$ 
 
